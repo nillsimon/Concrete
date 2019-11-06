@@ -20,13 +20,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
-        TextView textView = findViewById(R.id.adress);
-        RadioButton radioButton = findViewById(R.id.marka_betona);
-        CheckBox checkBox = findViewById(R.id.nasos);
-        Button button = findViewById(R.id.bottom_time);
     }
-
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
