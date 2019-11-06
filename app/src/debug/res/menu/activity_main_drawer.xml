@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_send"
+            android:title="@string/beton"
+            />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_send"
+            android:title="@string/grav" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_send"
+            android:title="@string/pesok" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_send"
+            android:title="@string/beton2" />
+    </group>
+
+    <item android:title="@string/ocom">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/contact" />
+            <item
+                android:id="@+id/ic_menu_send"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="@string/onas" />
+        </menu>
+    </item>
+
+</menu>
+
+

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">EuroBetonPlus</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">Заказ бетона с доставкой</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Настройки</string>
+    <string name="beton">Бетон</string>
+    <string name="dog">Договор</string>
+    <string name="schet">Счет-фактура</string>
+    <string name="sert">Сертификат</string>
+    <string name="beton2">Раствор</string>
+    <string name="pesok">Песок</string>
+    <string name="grav">Гравий</string>
+    <string name="contact">Контакты</string>
+    <string name="onas">О нас</string>
+    <string name="ocom">О компании</string>
+    <string name="adress">Адрес доставки:</string>
+    <string name="marka_betona">Марка бетона:</string>
+    <string name="b_nasos">Бетононасос</string>
+    <string name="button_selest_time">Выбрать время доставки</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

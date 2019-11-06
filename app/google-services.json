@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "973133851114",
+    "firebase_url": "https://concrete-72d47.firebaseio.com",
+    "project_id": "concrete-72d47",
+    "storage_bucket": "concrete-72d47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973133851114:android:62b1d262389ec8b21b6a93",
+        "android_client_info": {
+          "package_name": "com.nillsimon.concrete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973133851114-071sr815997vk7i73tlhv4dl35nslgo1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nillsimon.concrete",
+            "certificate_hash": "cffbb5873faeaa187e28d611bb14268a8a3c1bb6"
+          }
+        },
+        {
+          "client_id": "973133851114-ad51p5vq34um6k6hqdm54pe5dfrsg6va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTZXSCsMYn43INWVa8atjqbDhAvrMy6UU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973133851114-ad51p5vq34um6k6hqdm54pe5dfrsg6va.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
